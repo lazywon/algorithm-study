@@ -9,3 +9,4 @@
 | Lv.1 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)             | Javascript |
 | Lv.1 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                | Javascript |
 | Lv.2 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)                  | Javascript |
+| Lv.2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                     | Javascript |
