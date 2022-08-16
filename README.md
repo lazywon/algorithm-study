@@ -10,3 +10,5 @@
 | Lv.1 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                | Javascript |
 | Lv.2 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)                  | Javascript |
 | Lv.2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                     | Javascript |
+| Lv.1 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                    | Javascript |
+| Lv.1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)             | Javascript |
