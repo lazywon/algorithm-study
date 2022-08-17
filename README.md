@@ -12,3 +12,4 @@
 | Lv.2 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)                  | Javascript |         |
 | Lv.2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                     | Javascript | 스택/큐 |
 | Lv.2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                    | Javascript | DFS/BFS |
+| Lv.2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                  | Javascript | 스택/큐 |
