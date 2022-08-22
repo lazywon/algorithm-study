@@ -10,10 +10,12 @@
 | Lv.1 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                | Javascript |         |
 | Lv.1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)             | Javascript | 스택/큐 |
 | Lv.1 | [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/118666)                      | Javascript | 정렬    |
-| Lv.1 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                      | Javascript |        |
+| Lv.1 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                      | Javascript |         |
+| Lv.1 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                      | Javascript | 완전탐색    |
+| Lv.1 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                      | Javascript | 완전탐색    |
 | Lv.2 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)                  | Javascript |         |
 | Lv.2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                     | Javascript | 스택/큐 |
 | Lv.2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                    | Javascript | DFS/BFS |
 | Lv.2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                  | Javascript | 스택/큐 |
 | Lv.2 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                   | Javascript | 정렬    |
-| Lv.2 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)                   | Javascript |        |
+| Lv.2 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)                   | Javascript |         |
