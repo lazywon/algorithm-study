@@ -20,3 +20,4 @@
 | Lv.2 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                   | Javascript | 정렬     |
 | Lv.2 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)                   | Javascript |          |
 | Lv.2 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                      | Javascript | 정렬     |
+| Lv.2 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)        | Javascript |          |
