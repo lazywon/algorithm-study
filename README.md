@@ -13,6 +13,8 @@
 | Lv.1 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/42748)           | Javascript |          |
 | Lv.1 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                 | Javascript | 완전탐색 |
 | Lv.1 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                     | Javascript | 완전탐색 |
+| Lv.1 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)         | Javascript |          |
+| Lv.1 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         | Javascript |          |
 | Lv.2 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)                  | Javascript |          |
 | Lv.2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                     | Javascript | 스택/큐  |
 | Lv.2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                    | Javascript | DFS/BFS  |
