@@ -15,6 +15,8 @@
 | Lv.1 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                     | Javascript | 완전탐색 |
 | Lv.1 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)         | Javascript |          |
 | Lv.1 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         | Javascript |          |
+| Lv.1 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)           | Javascript | 해시     |
+| Lv.1 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                        | Javascript | 해시     |
 | Lv.2 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)                  | Javascript |          |
 | Lv.2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                     | Javascript | 스택/큐  |
 | Lv.2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                    | Javascript | DFS/BFS  |
@@ -25,3 +27,4 @@
 | Lv.2 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)        | Javascript |          |
 | Lv.2 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)              | Javascript | DFS/BFS  |
 | Lv.2 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                    | Javascript | 완전탐색 |
+| Lv.2 | [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                         | Javascript | 해시     |
