@@ -28,3 +28,4 @@
 | Lv.2 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)              | Javascript | DFS/BFS  |
 | Lv.2 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                    | Javascript | 완전탐색 |
 | Lv.2 | [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                         | Javascript | 해시     |
+| Lv.2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                       | Javascript | 스택/큐  |
