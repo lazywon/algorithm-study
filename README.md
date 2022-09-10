@@ -29,3 +29,6 @@
 | Lv.2 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                    | Javascript | 완전탐색 |
 | Lv.2 | [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                         | Javascript | 해시     |
 | Lv.2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                       | Javascript | 스택/큐  |
+| Lv.3 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)                     | Javascript | DFS      |
+| Lv.3 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)                    | Javascript | BFS      |
+| Lv.3 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                     | Javascript | DFS      |
