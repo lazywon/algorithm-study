@@ -17,6 +17,7 @@
 | Lv.1 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         | Javascript |          |
 | Lv.1 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)           | Javascript | 해시     |
 | Lv.1 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                        | Javascript | 해시     |
+| Lv.1 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                       | Javascript | 탐욕법   |
 | Lv.2 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)                  | Javascript |          |
 | Lv.2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                     | Javascript | 스택/큐  |
 | Lv.2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                    | Javascript | DFS      |
