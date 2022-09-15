@@ -36,3 +36,4 @@
 | Lv.3 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)                     | Javascript | DFS      |
 | Lv.3 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)                    | Javascript | BFS      |
 | Lv.3 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                     | Javascript | DFS      |
+| Lv.3 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)                   | Javascript | 해시     |
