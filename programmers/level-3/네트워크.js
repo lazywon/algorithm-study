@@ -1,4 +1,5 @@
 // DFS
+// 서로 연결된 트리의 개수 구하는 문제
 
 function solution(n, computers) {
   let answer = 0;
